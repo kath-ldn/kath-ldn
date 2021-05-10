@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kath, @kath-ldn
 - 👀 I work mainly with Javascript & JS Frameworks
-- 🌱 I’m currently learning Python
+- 🐍 I’m currently learning Python
 - 📫 Reach me at kath.develops@gmail.com or on [twitter](https://twitter.com/kath_ldn)
 <!--- - 💞️ I’m looking to collaborate on --->
 <!---
